@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Zeeshan 👋 
 
-<!--
-**ZeeshanHQ/zeeshanhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Solutions Architect & Backend Engineer
+I specialize in building production-grade AI systems that solve complex business problems. 
 
-Here are some ideas to get you started:
+- 🤖 **AI Expertise:** Multi-Agent RAG (LangGraph), LLM Orchestration, Prompt Engineering.
+- ⚙️ **Backend:** High-concurrency systems with FastAPI, Redis, and PostgreSQL.
+- 🛡️ **Security:** B.S. Cybersecurity student focusing on Secure AI & Data Privacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Production Project: Automated AI Content Pipeline
+I built an end-to-end engine that scrapes data via **RapidAPI**, performs AI editing with **MoviePy**, and automates multi-platform uploads via **OAuth 2.0**.
+- **Results:** 70% faster execution & 99.9% uptime by replacing browser automation with stateless APIs.
+- https://shorts.cavexa.online | 
+
+---
+
+### 📩 Let's Build Your Empire
+- 📧 Email: zeeshanjay7@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/zeeshanjay)
