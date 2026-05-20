@@ -30,7 +30,7 @@ Core Tech Stack & Architecture
       <br><sub>Supabase</sub>
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.png" width="35" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" alt="Node.js" />
       <br><sub>Node.js</sub>
     </td>
   </tr>
@@ -60,12 +60,12 @@ Engineered an end-to-end, stateless content generation and distribution engine, 
 System Activity & Performance
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&background=0D1117" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanhq&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanhq&layout=compact&theme=tokyonight&hide_border=true&background=0D1117" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
 Let's Build
 *   Enterprise Inquiries: [zeeshan@astraventa.com](mailto:zeeshan@astraventa.com)
-*   GitHub Engineering: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+*   GitHub Engineering: [github.com/zeeshanhq](https://github.com/zeeshanhq)
